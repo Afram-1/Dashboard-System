@@ -81,7 +81,7 @@ const Navbar = () => {
                 </Avatar>
               </IconButton>
             </Tooltip>
-            <span className="fs-6" style={{ marginLeft: "-15px" }}>
+            <span className="fs-6" style={{ marginLeft: "-14px" }}>
               Admin User
             </span>
           </div>
